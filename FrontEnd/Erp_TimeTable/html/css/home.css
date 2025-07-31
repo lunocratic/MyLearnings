@@ -1,0 +1,44 @@
+
+#img {
+    height: 50px;
+    width: 50px;
+    position: absolute;          
+    top: 0;                   
+    right: 25px;                 
+    margin: 10px;                 
+    
+
+}
+
+#navbar h1{
+    color: rgb(193, 39, 18);
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+
+#logo{
+    height: 50px;
+    width: 155px;
+    position: absolute;          
+    top: 0;                   
+    left: 25px;                 
+    margin: 10px; 
+}
+
+
+#sep {
+    background-color: rgb(151, 35, 35);
+    padding: 20px;
+}
+
+#sep button{
+    position: absolute;
+    right: 33px;
+    top: 75px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+
+}
